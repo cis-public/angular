@@ -1,0 +1,62 @@
+[
+	{
+		"_id": "1",
+		"email": "h.meier@gmail.com",
+		"forename": "Hans",
+		"lastname": "Meier"
+	},
+	{
+		"_id": "2",
+		"email": "p.müller@yahoo.com",
+		"forename": "Peter",
+		"lastname": "Müller"
+	},
+	{
+		"_id": "3",
+		"email": "s.schmitt@aol.com",
+		"forename": "Sepp",
+		"lastname": "Schmitt"
+	},
+	{
+		"_id": "4",
+		"email": "m.mustermann@t-online.de",
+		"forename": "Max",
+		"lastname": "Mustermann"
+	},
+	{
+		"_id": "5",
+		"email": "j.apfelbaum@web.de",
+		"forename": "Josef",
+		"lastname": "Apfelbaum"
+	},
+	{
+		"_id": "6",
+		"email": "s.springer@email.com",
+		"forename": "Stefan",
+		"lastname": "Springer"
+	},
+	{
+		"_id": "7",
+		"email": "a.dotzler@cis-solutions.eu",
+		"forename": "Alex",
+		"lastname": "Dotzler"
+	},
+	{
+		"_id": "8",
+		"email": "n.altiman@cis-solutions.eu",
+		"forename": "Nevin",
+		"lastname": "Altiman"
+	},
+	{
+		"_id": "9",
+		"email": "f.tagsold@cis-solutions.eu",
+		"forename": "Fabian",
+		"lastname": "Tagsold"
+	},
+	{
+		"_id": "10",
+		"email": "a.sedlmeier@ci-solutions.eu",
+		"forename": "Andreas",
+		"lastname": "Sedlmeier"
+	}
+]
